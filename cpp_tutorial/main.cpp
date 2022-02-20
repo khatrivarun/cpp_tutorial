@@ -1,8 +1,6 @@
 #include <iostream>
+#include "comments.h"
 
 int main() {
-	std::cout << "Line 1" << std::endl;
-	std::cout << "Line 2" << std::endl;
-
-	return 0;
+	return runMain();
 }
